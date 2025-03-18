@@ -5,7 +5,7 @@ Primer proyecto del Grado Superior de Desarrollo Web. Se trata de una página we
 
 Miembros del equipo: 3 
 
-Tiempo del proyetco: 3 semanas
+Tiempo del proyecto: 3 semanas
 
 ## Tecnologias usadas
 - PHP
