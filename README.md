@@ -7,11 +7,12 @@ Miembros del equipo: 3
 
 Tiempo del proyetco: 3 semanas
 
-##Tecnologias usadas
+## Tecnologias usadas
+- PHP
 
-PHP
-JavaScript
-CSS
+- JavaScript
+
+- CSS
 
 ## Despliegue 
 Para ejecutar la web localmente:
